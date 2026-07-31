@@ -1,14 +1,13 @@
-# Machine Learning
+# Aprendizaje de máquina - estadístico 
 
-Repositorio oficial del curso de **Machine Learning**.
+Repositorio oficial del curso de **Aprendizaje de máquina - estadístico**.
 
 En este repositorio se publicarán:
 
-- 📚 Notas de clase.
-- 📝 Tareas.
-- 💻 Ejemplos de código.
-- 📓 Jupyter Notebooks.
-- 📂 Material complementario.
+- Notas de clase.
+- Tareas.
+- Ejemplos de código.
+- Material complementario (si es que lo hay).
 
 ---
 
@@ -44,7 +43,7 @@ Al finalizar el curso, el estudiante será capaz de formular problemas reales en
 - Validación cruzada.
 - Selección de hiperparámetros.
 
-**📌 Primer Parcial (Tareas 1–7)**
+** Primer Parcial (Tareas 1–7)**
 
 ---
 
@@ -80,7 +79,7 @@ Al finalizar el curso, el estudiante será capaz de formular problemas reales en
 - Buenas prácticas para el desarrollo de modelos.
 - Equidad y sesgos algorítmicos.
 
-**📌 Segundo Parcial (Tareas 8–14)**
+** Segundo Parcial (Tareas 8–14)**
 
 ---
 
@@ -135,10 +134,8 @@ El objetivo será obtener el mejor desempeño predictivo sobre un conjunto de da
 ```
 .
 ├── tareas/
-├── notebooks/
-├── ejemplos/
+├── codigo/
 ├── datasets/
-├── notas/
 ├── slides/
 └── README.md
 ```
@@ -147,15 +144,7 @@ El objetivo será obtener el mejor desempeño predictivo sobre un conjunto de da
 
 # Tecnologías
 
-Durante el curso se utilizarán principalmente:
-
-- Python
-- NumPy
-- Pandas
-- Matplotlib
-- Scikit-Learn
-- TensorFlow
-- Jupyter Notebook
+Durante el curso se utilizará principalmente Python para los ejemplos y código, sin embargo, el curso es agnóstico del lenguaje de programación (pueden usar java si quieren, compliquense la vida solos)
 
 ---
 
