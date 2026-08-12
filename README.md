@@ -73,13 +73,15 @@ Al finalizar el curso, el estudiante será capaz de formular problemas reales en
 ## 5. Tópicos Avanzados
 
 - Métodos de ensamble.
+- No hay almuerzo gratis.
+** Segundo Parcial (Tareas 8–14)**
 - Redes neuronales.
 - Confiabilidad de predicciones.
 - Conformal Prediction.
 - Buenas prácticas para el desarrollo de modelos.
 - Equidad y sesgos algorítmicos.
 
-** Segundo Parcial (Tareas 8–14)**
+
 
 ---
 
