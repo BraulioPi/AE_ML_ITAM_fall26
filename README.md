@@ -83,6 +83,26 @@ Al finalizar el curso, el estudiante será capaz de formular problemas reales en
 
 ---
 
+## Temas de las tareas y fechas de entrega
+*NOTA*: Me las deberan mandar a mi correo del ITAM. Tienen hasta las 23:59 para mandarlas y que se las tome en cuenta en su evaluación. 
+
+
+| **Tarea** | **Fecha de entrega** | **Tema** |
+|:---------:|:--------------------:|----------|
+| 1 | Martes 18 de agosto | Tipos de aprendizaje, formulación de problemas y ciclo de vida de Machine Learning |
+| 2 | Martes 25 de agosto | Regresión lineal: intuición, formulación e interpretación geométrica |
+| 3 | Martes 1 de septiembre | Función de pérdida, mínimos cuadrados y solución analítica. Optimización: gradiente y descenso por gradiente |
+| 4 | Martes 8 de septiembre | Generalización: overfitting, underfitting, sesgo-varianza y regularización |
+| 5 | Martes 15 de septiembre | Ingeniería de variables |
+| 6 | Martes 22 de septiembre | KNN y estimadores basados en árboles |
+| 7 | Martes 29 de septiembre | Evaluación y selección de modelos de regresión. Validación cruzada |
+| 8 | Jueves 8 de octubre | Regresión logística, Softmax y métricas de clasificación |
+| 9 | Jueves 15 de octubre | KNN, árboles de clasificación y SVM |
+| 10 | Jueves 22 de octubre | PCA |
+| 11 | Jueves 29 de octubre | K-Means |
+| 12–13 | Jueves 5 de noviembre | Evaluación de clustering y DBSCAN |
+| 14 | Jueves 12 de noviembre | Ensambles: Random Forest y Gradient Boosting |
+
 # Proyecto Final
 
 El proyecto final consistirá en el desarrollo de un proyecto integral de Machine Learning con enfoque de consultoría analítica.
