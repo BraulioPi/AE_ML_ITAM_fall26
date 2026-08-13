@@ -166,7 +166,7 @@ El objetivo será obtener el mejor desempeño predictivo sobre un conjunto de da
 
 # Tecnologías
 
-Durante el curso se utilizará principalmente Python para los ejemplos y código, sin embargo, el curso es agnóstico del lenguaje de programación (pueden usar java si quieren, compliquense la vida solos)
+Durante el curso se utilizará principalmente Python para los ejemplos y código, sin embargo, el curso es agnóstico del lenguaje de programación (pueden usar java si quieren, compliquense la vida solos). O pueden usar R. 
 
 ---
 
