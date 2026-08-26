@@ -170,6 +170,50 @@ Durante el curso se utilizará principalmente Python para los ejemplos y código
 
 ---
 
+# Guía de Uso del Repositorio - Aprendizaje Máquina (Estadístico) ITAM
+
+## 1. Verificación de Git
+
+Antes de comenzar, abre tu terminal y ejecuta:
+
+
+git --version
+
+Si aparece algo similar a git version 2.x.x, Git ya está instalado.
+
+2. Clonar el Repositorio (Solo se hace una vez)
+
+Entra al repositorio en GitHub, presiona Code -> HTTPS y copia la dirección.
+Desde tu terminal, navega a la carpeta donde quieras guardarlo (ej. cd Documents o cd Desktop).
+Ejecuta el comando:
+
+git clone URL_DEL_REPOSITORIO
+
+
+Entra a la carpeta del repositorio:
+
+cd curso-machine-learning
+
+Si usas Visual Studio Code, puedes abrirlo directamente con:
+code .
+
+
+3. Obtener Nuevas Notas y Tareas (Flujo de Git)
+A lo largo del semestre se agregarán nuevos archivos. No es necesario volver a clonarlo.
+Cada vez que quieras actualizar tu copia local con los últimos cambios, entra a la carpeta del repositorio y ejecuta:
+git pull
+
+
+Importante: No modificar directamente los archivos del repositorio
+Para evitar conflictos con git pull, se recomienda que copies los ejercicios o notebooks a otra ruta antes de modificarlos:
+
+Ejemplo: Si existe notebooks/regresion_lineal.ipynb, haz una copia como notebooks/regresion_lineal_tu_nombre.ipynb o trabaja en una carpeta personal ajena al repositorio.
+
+Si modificas un archivo y posteriormente se actualiza en GitHub, Git detectará un conflicto al ejecutar git pull.
+
+---
+
 # Licencia
 
 Este material fue desarrollado exclusivamente para fines académicos del curso de Aprendizaje de máquina-estadístico. Su reproducción o distribución fuera del curso es válida siempre y cuando sea con fines de distribución del conocimiento. 
+
